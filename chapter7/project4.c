@@ -1,3 +1,6 @@
+//Write a programm that translates an alphabetic phone number into a numeric form
+
+
 #include<stdio.h>
 
 int main(void){
