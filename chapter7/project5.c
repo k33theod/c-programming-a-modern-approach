@@ -1,3 +1,4 @@
+//SCRABLE word value
 #include<stdio.h>
 #include<ctype.h>
 int main(void){
