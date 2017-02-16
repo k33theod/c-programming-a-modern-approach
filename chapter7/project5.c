@@ -35,6 +35,6 @@ int main(void){
   }
   printf("Scrabble value : %d",value); 
   return 0;
-  
+  //None
   
 }
