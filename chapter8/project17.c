@@ -4,7 +4,7 @@
 int main(){
   
   int size=0;
-  printf("This program creates a bagic square of a spesified size.\n");
+  printf("This program creates a magic square of a spesified size.\n");
   printf("The size must be an odd number between 1 and 99.\n");
   printf("Enter size of a bagic square : ");  
   scanf("%d",&size);
